@@ -1,1 +1,0 @@
-Beatles = new Meteor.Collection('Beatles');
