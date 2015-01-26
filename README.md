@@ -15,7 +15,7 @@ With SASS.
 The gulp task is necessary for compiling the SASS code for the components.
 
 ## Deploy
-`VULCANIZE=true meteor deploy xxx.meteor.com`
+Set the deploy url in `deploy.sh` and then use `./deploy.sh`
 
 ## Todo
  - Remove jQuery, Blaze and other template libraries from Meteor
