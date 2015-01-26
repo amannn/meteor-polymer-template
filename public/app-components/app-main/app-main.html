@@ -4,7 +4,7 @@
     
     <h1>Beatles</h1>
     <template repeat="{{ beatle in beatles }}">
-      <p>{{ beatle.name }}</p>
+      <p data-id="{{ beatle._id }}">{{ beatle.name }}</p>
     </template>
 
   </template>
