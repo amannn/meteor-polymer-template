@@ -1,7 +1,7 @@
 var PATHS = {
   SASS: {
-    IN: '../public/elements/**/*.scss',
-    OUT: '../public/elements'
+    IN: '../public/app-components/**/*.scss',
+    OUT: '../public/app-components'
   }
 }
 
